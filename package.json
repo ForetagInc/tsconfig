@@ -1,0 +1,26 @@
+{
+	"name": "@foretag/tsconfig",
+	"version": "0.0.1",
+	"description": "Shared TypeScript config for Foretag internal and public projects.",
+	"main": "tsconfig.json",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ForetagInc/tsconfig.git"
+	},
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"tsc",
+		"config",
+		"configuration",
+		"foretag",
+		"foretag.dev"
+	],
+	"author": "Chiru B <chirub@foretag.co>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ForetagInc/tsconfig/issues"
+	},
+	"homepage": "https://github.com/ForetagInc/tsconfig#readme"
+}
